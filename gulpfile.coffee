@@ -18,6 +18,7 @@ vendorPaths = [
     'jquery/jquery.js',
     'react/react.js',
     'react/react-with-addons.js',
+    'react-bootstrap/react-bootstrap.js',
 ]
 
 gulp.task 'clean', ->
